@@ -7,6 +7,12 @@
 
 ----
 
-![netflix](assets/20210726_022206.gif)
+<br />
 
-![netflix](assets/asset-1.png)
+<img src="assets/20210726_022206.gif" width="100%" />
+
+<br />
+<br />
+
+<img src="assets/asset-1.png" width="100%" />
+
